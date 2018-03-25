@@ -10,8 +10,8 @@ Three output files are generated.
 
 # Other implementations
 
-1.Redblacktrees'
-2.Ford Fulkerson algortihm for finding max-flow in a graph.
+1. Redblacktrees
+2. Ford Fulkerson algortihm for finding max-flow in a graph.
 
 
 # References
