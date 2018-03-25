@@ -7,3 +7,13 @@ Three output files are generated.
 
 
 ![Screenshot](https://github.com/abhivandit/Algorithms-and-data-structures/blob/master/delta.png?raw=true "Screeshot ofdelta modulation")
+
+# Other implementations
+
+1.Redblacktrees'
+2.Ford Fulkerson algortihm for finding max-flow in a graph.
+
+
+# References
+
+"Introduction to Algorithms, T.H.CORMEN"
