@@ -1,0 +1,6 @@
+install matplotlib and python for the code to generate graphs automatially.
+provide the inputs in a text file.
+and just run the deltatemp.c file
+input format
+x-oordinate y-coordinate(in any order)
+also delta value
